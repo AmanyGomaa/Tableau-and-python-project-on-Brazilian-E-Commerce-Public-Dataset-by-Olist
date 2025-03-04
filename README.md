@@ -6,15 +6,25 @@ The project includes Python scripts for data processing, analysis, and visualiza
 
 # Key Questions
 •  What are the monthly sales trends, and do they vary across regions? 
+
 •  Which product categories generate the highest revenue? 
+
 •  Why do specific product categories outperform others in revenue? 
+
 •  How do customer reviews affect repeat purchases? 
+
 •  Is there a correlation between delivery time and customer satisfaction? 
+
 •  Why do some customers leave negative reviews despite timely delivery? 
+
 •  Why do repeat customers prefer specific product categories? 
+
 • What is the most common payment method, and how does it impact order value? 
+
 • Is there a relationship between instalment payments and higher purchase amounts? 
+
 • Which regions have the highest number of orders? 
+
 • How does location influence delivery speed and customer satisfaction? 
 
 # dataset
