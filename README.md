@@ -3,19 +3,18 @@
 This project demonstrates my skills in Python data analysis and visualization using Jupyter notebooks and Tableau.
 The primary purpose of this dataset is to analyse factors that influence  Sales Performance, Customer Behaviour, Logistics Efficiency, Payment Insights and geographical analysiss.
 The project includes Python scripts for data processing, analysis, and visualizations, along with an interactive Tableau storyboard that presents the final results.
+
 # Key Questions
-●What are the monthly sales trends, and do they vary across regions? 
-• Which product categories generate the highest revenue? 
-•   Why do specific product categories outperform others in revenue? 
-How do customer reviews affect repeat purchases? 
-• Is there a correlation between delivery time and customer satisfaction? 
-• Why do some customers leave negative reviews despite timely delivery? 
-• Why do repeat customers prefer specific product categories? 
-
-● What is the most common payment method, and how does it impact order value? 
+•  What are the monthly sales trends, and do they vary across regions? 
+•  Which product categories generate the highest revenue? 
+•  Why do specific product categories outperform others in revenue? 
+•  How do customer reviews affect repeat purchases? 
+•  Is there a correlation between delivery time and customer satisfaction? 
+•  Why do some customers leave negative reviews despite timely delivery? 
+•  Why do repeat customers prefer specific product categories? 
+• What is the most common payment method, and how does it impact order value? 
 • Is there a relationship between instalment payments and higher purchase amounts? 
-
-● Which regions have the highest number of orders? 
+• Which regions have the highest number of orders? 
 • How does location influence delivery speed and customer satisfaction? 
 
 # dataset
