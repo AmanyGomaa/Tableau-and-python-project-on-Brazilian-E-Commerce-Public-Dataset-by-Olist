@@ -42,7 +42,7 @@ Description of folder contents are as follows:
 ● 02 Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
 'Original Data': Original datasets.
 'Prepared Data': Cleaned data ready for analysis.
-
+(Data not uploaded to GitHub due to size limitations.) 
 ● 03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
 
 ● 04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
