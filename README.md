@@ -50,7 +50,8 @@ Description of folder contents are as follows:
 ● 04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
 
 # Tableau Storyboard:
-an interactive visualizations and analysis results here: [Tableau Storyboard Link]
+an interactive visualizations and analysis results here: [[Tableau Storyboard Link]
+(https://public.tableau.com/app/profile/amani.abdelwahab/viz/braziliane-commerceproject/baraziliane-commercestoryteeling?publish=yes) ]
 
 # Data Source:
 
